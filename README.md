@@ -1,4 +1,4 @@
-# Intel&reg; RealSense&trade; ROS
+# Intel&reg; RealSense&trade; ROS 
 These are packages for using Intel RealSense cameras with ROS.  
 
 www.intel.com/realsense  
